@@ -4,7 +4,7 @@
 |---------|--------|-----------|
 |         |        |           |
 
-## Instrucciones
+## Instrucciones   
 
 Responde las siguientes preguntas con claridad. Cada sección tiene un peso específico, así que distribuye tu tiempo en consecuencia.
 
